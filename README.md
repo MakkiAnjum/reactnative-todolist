@@ -1,5 +1,5 @@
-# `download the project or clone it.
-# run `
+# `download the project or clone it.`
+# `run `
 # `npm install`
 
 # `react-native run-android` for android
