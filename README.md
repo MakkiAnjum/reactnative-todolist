@@ -1,5 +1,6 @@
-# download
-#run `npm install`
+# download the project or clone it.
+# run 
+# `npm install`
 
-run # `react-native run-android` for android
-run # `react-native run-ios` for iOS
+# `react-native run-android` for android
+# `react-native run-ios` for iOS
